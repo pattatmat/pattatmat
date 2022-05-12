@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pattatmat
+- 👀 I’m interested in coding and gaming
+- 🌱 I’m currently learning javascript
